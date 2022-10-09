@@ -31,5 +31,3 @@ const maxminBirdFreq = (birds) => {
   */
   return [parseInt(max), parseInt(min)];
 };
-
-console.log(maxminBirdFreq([4, 4, 4, 4, 2, 2, 2, 2, 5]));

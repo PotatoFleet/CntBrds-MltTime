@@ -1,3 +1,5 @@
+// O(N) Time Complexity
+// O(1) Space Complexity
 const miltime = (time) => {
   // 12 -> 00 simplifies things
   time = time.replace("12", "00");
